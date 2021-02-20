@@ -1,0 +1,41 @@
+﻿category,words,definition
+science,alkane,It is an organic molecule that only contains single carbon-carbon bonds.
+science,asteroid,A small celestial body composed of rock and metal.
+science,biosphere,The regions of the Earth where living organisms exist
+science,catalyst,A substance that initiates or accelerates a chemical reaction.
+science,chloroplast,A plastid containing chlorophyll and other pigments.
+science,collision,Occurs when any two objects bump into each other.
+science,diffusion,A movement of particles from an area of higher concentration to one of lower concentration.
+science,friction,The resistance of motion when one object rubs against another.
+science,genetics,The study of heredity and variation in organisms.
+science,vector,It is a quantity that has both a magnitude and a direction.
+language,anaphora,a word or phrase is repeated at the beginning of multiple sentences throughout a piece of writing
+language,hyperbole,exaggerated statements or claims not meant to be taken literally
+language,paradox,"a statement that appears illogical or self-contradictory but, upon investigation, might actually be true or plausible"
+language,symbolism,the use of symbols to represent ideas or qualities
+language,synecdoche, a literally device in which parts of something is used to represent the whole or vice versa
+language,personification,representation of a thing or abstraction as a person or human form
+language,suffix,"an affix occurring at the end of a word, base, or phrase"
+language,conjunction,"words used to connect words, phrases, or clauses"
+language,preposition,a word that usually tells where or when something in in relation to something else
+language,clause,group of words that includes a subject and a verb
+comprog,Algorithm, A set of instructions or rules designed to solve a definite problem.
+comprog,Argument,It is a value that is passed into a command or a function.
+comprog,Boolean,An expression used for creating statements that are either TRUE or FALSE. 
+comprog,Code,"A term used to describe a written set of instructions, written using the protocols of a particular language such as Python."
+comprog,Program," An organized collection of instructions, which when executed, perform a specific task or function."
+comprog,Bit,The individual 1's and 0's you see in binary.
+comprog,Function,A block of code that can be referenced by name to run the code it contains.
+comprog,Iteration,A repetitive action or command typically created with programming loops.
+comprog,Variable,A placeholder for a piece of information that can change.
+comprog,Conditionals,Statements that only run under certain conditions.
+mathematics,Arithmetic,The most basic mathematical operation.
+mathematics,Probability,Likelihood of a given event occurring.
+mathematics,Statistics,"Methods of planning experiments, obtaining data and analyzing it."
+mathematics,Set,Any collection of things or numbers that belong to a well-defined category. 
+mathematics,Interval,Set of numbers or points in a coordinate system.
+mathematics,Formula,Can be applied to several different values of the quantities in the question.
+mathematics,Fraction,Number that indicates one or more equal parts of the whole.
+mathematics,Angle,The space between two lines or planes that intersect.
+mathematics,Point,An exact location in space. A point has no dimension.
+mathematics,Plane,A flat surface that extends endlessly in all directions.
